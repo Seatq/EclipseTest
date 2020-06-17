@@ -6,6 +6,8 @@ public class GitTest1 {
 		int x = 101, y= 55;
 		int z = x+y;
 		System.out.println(z);
+		
+		System.out.println("End of test1");
 
 	}
 
